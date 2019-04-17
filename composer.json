@@ -1,5 +1,5 @@
 {
-    "name": "tweedegolf/prometheus-bundle",
+    "name": "twakeapp/prometheus-bundle",
     "description": "Symfony bundle for Prometheus client",
     "license": "MIT",
     "autoload": {
