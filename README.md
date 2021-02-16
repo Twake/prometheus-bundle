@@ -1,4 +1,5 @@
-![Archived](https://img.shields.io/badge/Current Status-Archived-blue?style=flat)
+![Archived](https://img.shields.io/badge/Current_Status-Archived-blue?style=flat)
+
 # TweedeGolfPrometheusBundle
 A Symfony bundle for the [tweede golf prometheus client]. For more information
 on Prometheus you can [check their website][prometheus].
